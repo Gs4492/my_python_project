@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # main.py
 
 from employee import Employee, Developer, Manager, Intern
@@ -68,3 +69,7 @@ def main_menu():
             
 if __name__ == "__main__":
     main_menu()
+=======
+print("Hello, GitHub!")
+print("Git is awesome!")
+>>>>>>> 7c3ef963e0e60a267a40d696e16438ac5f150eb6
